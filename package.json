@@ -43,8 +43,7 @@
     "grunt-push-release": "~0.1.1",
     "grunt-conventional-changelog": "~6.1.0",
     "grunt-csso": "~2.2.0",
-    "grunt-text-replace": "~0.4.0",
-    "grunt-push-release": "0.1.1"
+    "grunt-text-replace": "~0.4.0"
   },
   "engines": {
     "node": ">=0.10.0"
