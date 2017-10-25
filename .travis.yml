@@ -1,9 +1,10 @@
 language: node_js
 node_js:
-  - "4"
+  - "0.10"
 rvm:
   - "2.0.0"
 before_install:
+  - "npm install peerDependency"
   - "npm install -g bower"
   - "npm install -g grunt-cli"
   - "gem install bundler"
