@@ -5,5 +5,5 @@ rvm:
   - "2.0.0"
 before_install:
   - "npm install -g bower"
-  - "npm install -g grunt-cli"
+  - "npm install -g grunt-cli@0.4.5"
   - "gem install bundler"
